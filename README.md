@@ -1,2 +1,2 @@
 # Exercicios-Beecrowd
-Minhas soluções pra questões do beecrwod
+Minhas soluções para questões do beecrwod
